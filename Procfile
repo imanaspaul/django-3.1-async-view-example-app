@@ -1,1 +1,1 @@
-web: uvicorn main:asgi:application --reload --port $PORT --bind 0.0.0.0 -v2
+web: gunicorn main.wsgi --log-file -
