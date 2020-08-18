@@ -1,1 +1,1 @@
-web: gunicorn djangoherokuapp.wsgi --log-file -
+web: uvicorn main.asgi:application --log-file -
