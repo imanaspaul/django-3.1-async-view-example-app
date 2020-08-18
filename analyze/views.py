@@ -6,7 +6,7 @@ async def my_view(request):
 
     # IF GET REQUEST
     url = "https://text-sentiment.p.rapidapi.com/analyze"
-    payload = "text=I want to kill you"
+    payload = "text=I'm having trouble getting the response data from the payment gateway."
 
     headers = {
     'x-rapidapi-host': "text-sentiment.p.rapidapi.com",
