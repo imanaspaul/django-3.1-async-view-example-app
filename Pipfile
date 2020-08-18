@@ -14,7 +14,7 @@ gunicorn = "*"
 dj-database-url = "*"
 whitenoise = "*"
 psycopg2 = "*"
-djangoherokuapp = "*"
+
 
 [requires]
 python_version = "3.6"
