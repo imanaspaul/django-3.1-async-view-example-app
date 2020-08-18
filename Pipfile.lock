@@ -1,7 +1,7 @@
 {
     "_meta": {
         "hash": {
-            "sha256": "9428798a1d59edcfde057de7a175f794f93daf72f04f8d092d75f00e957f5ee6"
+            "sha256": "0e5c2200ba4ef4f656d151baed27cd628a56ffda17be20dc288bab84a68c6b2d"
         },
         "pipfile-spec": 6,
         "requires": {
@@ -22,13 +22,6 @@
                 "sha256:9fc6fb5d39b8af147ba40765234fa822b39818b12cc80b35ad9b0cef3a476aed"
             ],
             "version": "==3.2.10"
-        },
-        "boto": {
-            "hashes": [
-                "sha256:147758d41ae7240dc989f0039f27da8ca0d53734be0eb869ef16e3adcfa462e8",
-                "sha256:ea0d3b40a2d852767be77ca343b58a9e3a4b00d9db440efb8da74b4e58025e5a"
-            ],
-            "version": "==2.49.0"
         },
         "certifi": {
             "hashes": [
@@ -73,32 +66,6 @@
             ],
             "index": "pypi",
             "version": "==3.1"
-        },
-        "django-herokuapp": {
-            "hashes": [
-                "sha256:72a6a7f9bb3aea11e2bbc98528f4c79fab42fe3fc474ffc73621badd7b72ac41"
-            ],
-            "index": "pypi",
-            "version": "==0.9.20"
-        },
-        "django-require": {
-            "hashes": [
-                "sha256:01c4c48ee60753ca4485c1de8096d2af63d53d0198f53ca8564edb5ba33b166e"
-            ],
-            "version": "==1.0.11"
-        },
-        "django-require-s3": {
-            "hashes": [
-                "sha256:f52e248116f7cb4f1015f50dc3bd7c3ff1b9af78821a4f0b8bb3833ba9672a77"
-            ],
-            "version": "==1.0.0"
-        },
-        "django-storages": {
-            "hashes": [
-                "sha256:3103991c2ee8cef8a2ff096709973ffe7106183d211a79f22cf855f33533d924",
-                "sha256:a59e9923cbce7068792f75344ed7727021ee4ac20f227cf17297d0d03d141e91"
-            ],
-            "version": "==1.9.1"
         },
         "gunicorn": {
             "hashes": [
@@ -195,13 +162,6 @@
             ],
             "version": "==1.4.0"
         },
-        "sh": {
-            "hashes": [
-                "sha256:6f792e45b45d039b423081558904981e8ab49572b0c38009fcc65feaab06bcda",
-                "sha256:97a3d2205e3c6a842d87ebbc9ae93acae5a352b1bc4609b428d0fd5bb9e286a3"
-            ],
-            "version": "==1.13.1"
-        },
         "sniffio": {
             "hashes": [
                 "sha256:20ed6d5b46f8ae136d00b9dcb807615d83ed82ceea6b2058cecb696765246da5",
@@ -230,13 +190,6 @@
             ],
             "index": "pypi",
             "version": "==0.11.8"
-        },
-        "waitress": {
-            "hashes": [
-                "sha256:1bb436508a7487ac6cb097ae7a7fe5413aefca610550baf58f0940e51ecfb261",
-                "sha256:3d633e78149eb83b60a07dfabb35579c29aac2d24bb803c18b26fb2ab1a584db"
-            ],
-            "version": "==1.4.4"
         },
         "websockets": {
             "hashes": [
