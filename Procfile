@@ -1,1 +1,1 @@
-web: uvicorn main.asgi:application --log-file -
+web: uvicorn main.asgi:application
